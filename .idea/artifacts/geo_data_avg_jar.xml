@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="geo-data-avg:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/geo_data_avg_jar</output-path>
+    <root id="archive" name="geo-data-avg.jar">
+      <element id="module-output" name="geo-data-avg" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/json-20240303.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Coding-Task/xplg-test.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
