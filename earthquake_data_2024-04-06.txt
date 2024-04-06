@@ -1,6 +1,6 @@
 2024-03-31 1.62, location: Balleny Islands region
-2024-03-30 1.50, location: Rat Islands, Aleutian Islands, Alaska
-2024-04-06 1.95, location: 137 km S of Honchō, Japan
+2024-03-30 1.49, location: Rat Islands, Aleutian Islands, Alaska
+2024-04-06 1.99, location: 137 km S of Honchō, Japan
 2024-04-05 1.63, location: Maug Islands region, Northern Mariana Islands
 2024-04-04 1.51, location: 83 km E of Minami-Sōma, Japan
 2024-04-03 1.77, location: 18 km SSW of Hualien City, Taiwan
